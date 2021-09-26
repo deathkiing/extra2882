@@ -1,0 +1,7 @@
+Bear
+Class: Mammal
+Order: Carnivoran
+Family: Ursidae
+Genus: Bears
+Species: Ursidae
+Diet: Omnivorous

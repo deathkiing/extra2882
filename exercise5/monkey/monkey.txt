@@ -1,0 +1,7 @@
+Monkey
+Class: Mammalia
+Order: Primates
+Family: Cercopithecidae
+Genus: Cebus
+Species: Cebus capucinus
+Diet: Carnivores

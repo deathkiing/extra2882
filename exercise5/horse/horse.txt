@@ -1,0 +1,7 @@
+Horse
+Class: Mammal
+Order: Perissodactyla
+Family: Equidae
+Genus: Equus
+Species: Equus caballus
+Diet: Herbivores

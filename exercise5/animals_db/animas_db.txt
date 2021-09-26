@@ -1,0 +1,10 @@
+lion
+fox
+wolf
+bear
+tiger
+panda
+monkey
+raccoon
+horse
+zebra

@@ -1,0 +1,7 @@
+Lion
+Class: Mammal
+Order: Carnivora
+Family: Felidae
+Genus: Panthera
+Species: Panthera leo
+Diet: Carnivores

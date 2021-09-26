@@ -1,0 +1,7 @@
+Panda
+Class: Mammal
+Order: Carnivora
+Family: Ursidae
+Genus: Ailuropoda
+Species: Ailuropoda melanoleuca
+Diet: Carnivore

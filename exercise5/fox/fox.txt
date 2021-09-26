@@ -1,0 +1,7 @@
+Fox
+Class: Mammal
+Order: Carnivora
+Family: Canidae
+Genus: Vulpus
+Species: Caninae
+Diet: Carnivores

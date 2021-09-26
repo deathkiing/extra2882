@@ -1,0 +1,7 @@
+Zebra
+Class: Mammal
+Order: Perissodactyla
+Family: Equidae
+Genus: Equus
+Species: Equus grevyi
+Diet: Herbivores

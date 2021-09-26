@@ -1,0 +1,7 @@
+Raccoon
+Class: Mammal
+Order: Carnivores
+Family: Procyonidae
+Genus: Raccoons
+Species: Procyon lotor
+Diet: Carnivores

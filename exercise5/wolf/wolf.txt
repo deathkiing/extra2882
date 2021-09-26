@@ -1,0 +1,7 @@
+Wolf
+Class: Mammal
+Order: Carnivora
+Family: Canidae
+Genus: Canis
+Species: Canis Lupus
+Diet: Carnivores
